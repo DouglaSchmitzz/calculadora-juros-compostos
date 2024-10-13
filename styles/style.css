@@ -22,10 +22,11 @@
     justify-content: center;
     background: var(--preset2);
     color: #d1d5db;
+    
 }
 
 #calculator {
-    background-color: #262626;  
+    background-color: #262626a5;  
     padding: 40px;
     border-radius: 8px;
     box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.348);
@@ -88,13 +89,13 @@
 }
 
 #calculate {
-    background: var(--preset);
-    border: none;
+    background: #1b182100;
+    border: 2px solid rgba(255, 255, 255, .2);
     padding: 10px;
     color: #fff;
     font-weight: bold;
     font-size: 18px;
-    border-radius: 4px;
+    border-radius: 10px;
     cursor: pointer;
 }
 
